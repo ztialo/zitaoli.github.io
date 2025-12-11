@@ -27,3 +27,5 @@ pnpm-debug.log*
 
 *.mp4
 *.mov
+.vercel
+.env*.local
