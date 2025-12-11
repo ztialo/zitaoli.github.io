@@ -24,3 +24,6 @@ pnpm-debug.log*
 # Editor files
 .vscode/
 .idea/
+
+*.mp4
+*.mov
